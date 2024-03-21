@@ -33,7 +33,7 @@ body {
   repeating-linear-gradient(220deg, rgb(0, 0, 0) 0px, rgb(0, 0, 0) 19px, transparent 19px, 
   transparent 22px), repeating-linear-gradient(189deg, rgb(0, 0, 0) 0px, rgb(0, 0, 0) 19px, 
   transparent 19px, transparent 22px), repeating-linear-gradient(148deg, rgb(0, 0, 0) 0px, 
-  rgb(0, 0, 0) 19px, transparent 19px, transparent 22px), linear-gradient(90deg, rgb(27, 226, 9), <!-COLOR A HOJAS DE LOS TALLOS->
+  rgb(0, 0, 0) 19px, transparent 19px, transparent 22px), linear-gradient(90deg, rgb(21, 255, 0), 
   rgb(240, 240, 240));
 }
 
@@ -160,7 +160,7 @@ body {
   transform: translate(-50%, -100%);
   width: 8vmin;
   height: 8vmin;
-  background-color: #1aaa15;<!-COLOR CENTRO DE LAS FLORES->
+  background-color: #1aaa15;
   filter: blur(10vmin);
 }
 .flower__leaf {
@@ -239,7 +239,7 @@ body {
   height: 55vmin;
   width: 1.5vmin;
   background-image: linear-gradient(to left, rgba(0, 0, 0, 0.2), transparent, 
-  rgba(255, 255, 255, 0.2)), linear-gradient(to top, transparent 10%, #00cc9c, #00cc9c); <!-COLOR TALLOS DE LAS 3 FLORES->
+  rgba(255, 255, 255, 0.2)), linear-gradient(to top, transparent 10%, #7dc49f, #7dc49f); <!--COLOR DE LOS 3 TALLOS DE LAS FLORES--->
   box-shadow: inset 0 0 2px rgba(0, 0, 0, 0.5);
   -webkit-animation: grow-flower-tree 4s backwards;
           animation: grow-flower-tree 4s backwards;
@@ -254,7 +254,7 @@ body {
   height: var(--h);
   border-top-right-radius: var(--h);
   border-bottom-left-radius: var(--h);
-  background-image: linear-gradient(to top, rgba(20, 122, 20, 0.4), #064600);<!-COLOR DE HOJAS DE LAS FLORES->
+  background-image: linear-gradient(to top, rgba(20, 122, 20, 0.4), #1aaa15);
 }
 .flower__line__leaf--1 {
   transform: rotate(70deg) rotateY(30deg);
