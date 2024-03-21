@@ -33,10 +33,10 @@ body{
     animation-delay: .2s ;
 }
 .greetings > span:nth-child(3){
-    animation-delay: .4s ;
+    animation-delay: .2s ;
 }
 .greetings > span:nth-child(4){
-    animation-delay: .6s;
+    animation-delay: .2s;
 }
 
 
