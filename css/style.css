@@ -57,11 +57,9 @@ body{
     animation-delay: .4s ;
 }
 .greetings > span:nth-child(11){
-    animation-delay: .4s ;
+    animation-delay: .8s ;
 }
-.greetings > span:nth-child(12){
-    animation-delay: .4s ;
-}
+
 
 
 .description{
