@@ -160,7 +160,7 @@ body {
   transform: translate(-50%, -100%);
   width: 8vmin;
   height: 8vmin;
-  background-color: #0f02f7;<!-COLOR A HOJAS DE LOS TALLOS->
+  background-color: #1aaa15;<!-COLOR CENTRO DE LAS FLORES->
   filter: blur(10vmin);
 }
 .flower__leaf {
