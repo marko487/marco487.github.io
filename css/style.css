@@ -51,12 +51,6 @@ body{
     animation-delay: .4s ;
 }
 .greetings > span:nth-child(9){
-    animation-delay: .4s ;
-}
-.greetings > span:nth-child(10){
-    animation-delay: .4s ;
-}
-.greetings > span:nth-child(11){
     animation-delay: .8s ;
 }
 
